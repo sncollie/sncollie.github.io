@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Steve
+title: About
 permalink: /about/
+
 ---
 <html>
 	<head>
