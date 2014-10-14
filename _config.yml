@@ -12,3 +12,8 @@ github_username:  sncollie
 # Build settings
 markdown: kramdown
 highlighter: rouge
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
