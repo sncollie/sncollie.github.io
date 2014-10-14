@@ -2,7 +2,6 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
-
 ---
 <html>
 	<head>
