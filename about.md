@@ -16,5 +16,4 @@ permalink: /about/
 		<p>I've been a PI, an Executive Assistant, and a Carpet-Cleaner.  I've interviewed with the CIA, almost joined the Navy as a pilot, and I've flown a Helicopter a few times.</p>
 		<p>But most of my life I've worked in I.T.</p>
 	</body>
-
 </html>
