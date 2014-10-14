@@ -4,10 +4,10 @@
     <title>The Napping Man</title>
     <description>ARGH!!!!!!
 </description>
-    <link>http://sncollie.github.io//</link>
-    <atom:link href="http://sncollie.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Oct 2014 14:40:20 -0500</pubDate>
-    <lastBuildDate>Tue, 14 Oct 2014 14:40:20 -0500</lastBuildDate>
+    <link>sncollie.github.io/</link>
+    <atom:link href="sncollie.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 14 Oct 2014 14:47:30 -0500</pubDate>
+    <lastBuildDate>Tue, 14 Oct 2014 14:47:30 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 14 Oct 2014 08:24:11 -0500</pubDate>
-        <link>http://sncollie.github.io//jekyll/update/2014/10/14/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://sncollie.github.io//jekyll/update/2014/10/14/welcome-to-jekyll.html</guid>
+        <link>sncollie.github.io/jekyll/update/2014/10/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">sncollie.github.io/jekyll/update/2014/10/14/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -44,8 +44,8 @@
 
 </description>
         <pubDate>Tue, 14 Oct 2014 08:24:11 -0500</pubDate>
-        <link>http://sncollie.github.io//jekyll/update/2014/10/14/First-Post.html</link>
-        <guid isPermaLink="true">http://sncollie.github.io//jekyll/update/2014/10/14/First-Post.html</guid>
+        <link>sncollie.github.io/jekyll/update/2014/10/14/First-Post.html</link>
+        <guid isPermaLink="true">sncollie.github.io/jekyll/update/2014/10/14/First-Post.html</guid>
         
         
         <category>jekyll</category>
