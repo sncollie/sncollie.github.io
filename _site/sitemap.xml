@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>sncollie.github.io/jekyll/update/2014/10/14/welcome-to-jekyll.html</loc>
+    
+    <lastmod>2014-10-14T08:24:11-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>sncollie.github.io/jekyll/update/2014/10/14/First-Post.html</loc>
+    
+    <lastmod>2014-10-14T08:24:11-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>sncollie.github.io/README.html</loc>
+    <lastmod>2014-10-14T15:14:40-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>sncollie.github.io/about/</loc>
+    <lastmod>2014-10-14T15:14:40-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>sncollie.github.io/</loc>
+    <lastmod>2014-10-14T15:14:40-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>sncollie.github.io/portfolio/</loc>
+    <lastmod>2014-10-14T15:14:40-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+</urlset>
