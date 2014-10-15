@@ -39,8 +39,20 @@ $on-laptop:        800px;
     }
 }
 
+//Custom CSS
 
+.blog-images	{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
 
+.blog-text	{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+	}
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
