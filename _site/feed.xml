@@ -6,8 +6,8 @@
 </description>
     <link>http://sncollie.github.io/</link>
     <atom:link href="http://sncollie.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 16 Oct 2014 15:34:41 -0500</pubDate>
-    <lastBuildDate>Thu, 16 Oct 2014 15:34:41 -0500</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2014 15:53:02 -0500</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2014 15:53:02 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -33,7 +33,7 @@
 
 &lt;p&gt;There is one last teeny-tiny step you need to do.&lt;/p&gt;
 
-&lt;p&gt;Add the following to your `dk.rb’ file.  this file is located in the Ruby Development folder (where ever you chose to put it).  Find the existing REG_KEYS entry and replace with this:&lt;/p&gt;
+&lt;p&gt;Add the following to your `dk.rb’ file.  This file is located in the Ruby Development folder (where ever you chose to put it).  Find the existing REG_KEYS entry and replace with this:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;REG_KEYS = [
     &#39;Software\RubyInstaller\MRI&#39;,

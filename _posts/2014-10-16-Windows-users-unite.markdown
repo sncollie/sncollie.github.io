@@ -25,7 +25,7 @@ I was not one of those people.  If you're like me (may God have mercy on your so
 
 There is one last teeny-tiny step you need to do.
 
-Add the following to your `dk.rb' file.  this file is located in the Ruby Development folder (where ever you chose to put it).  Find the existing REG_KEYS entry and replace with this:
+Add the following to your `dk.rb' file.  This file is located in the Ruby Development folder (where ever you chose to put it).  Find the existing REG_KEYS entry and replace with this:
 
 
     REG_KEYS = [
